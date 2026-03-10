@@ -2,10 +2,10 @@
 <h3 align="center">🚀 Développeur Full Stack Java | Spring Boot · Angular · PostgreSQL</h3>
 
 <p align="center">
-  <a href="/cdn-cgi/l/email-protection#9ef7fcecfff6f7f3fcfbecf9f1ebafdef9f3fff7f2b0fdf1f3">
+  <a href="mailto:ibrahimbergou1@gmail.com">
     <img src="https://img.shields.io/badge/Email-ibrahimbergou1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ibrahim-bergou-591504322/">
+  <a href="https://linkedin.com/in/ibrahim-bergou">
     <img src="https://img.shields.io/badge/LinkedIn-ibrahim--bergou-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Localisation-Casablanca%2C%20Maroc-green?style=for-the-badge&logo=googlemaps&logoColor=white" />
@@ -23,7 +23,7 @@ Passionné par la création d'applications web robustes et maintenables, avec un
 - 🔍 **Disponible** — À la recherche d'un **CDI ou stage préembauche en ingénierie Full Stack Java / Spring Boot**
 - 🌱 En apprentissage continu : Docker, CI/CD, microservices
 - 💬 Trilingue : **Arabe** (natif) · **Français** (B2) · **Anglais** (B1)
-- 📫 Me contacter : **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="84ede6f6e5ecede9e6e1f6e3ebf1b5c4e3e9e5ede8aae7ebe9">[email&#160;protected]</a>**
+- 📫 Me contacter : **ibrahimbergou1@gmail.com**
 
 ---
 
@@ -71,13 +71,6 @@ Passionné par la création d'applications web robustes et maintenables, avec un
 
 ---
 
-### 🏠 [Clone Airbnb — Full Stack](https://github.com/Ibrahim567bergou/Airbnb-clone-backend)
-> Reproduction des fonctionnalités clés d'Airbnb, front-end et back-end séparés.
-- **Backend** : [Airbnb-clone-backend](https://github.com/Ibrahim567bergou/Airbnb-clone-backend)
-- **Frontend** : [Airbnb-clone-Frontend](https://github.com/Ibrahim567bergou/Airbnb-clone-Frontend)
-
----
-
 ### 🛒 Plateforme E-commerce
 > Plateforme avec catalogue produits, panier d'achat et gestion clients.
 - **Stack** : PHP · HTML · CSS · Bootstrap · XAMPP
@@ -88,8 +81,14 @@ Passionné par la création d'applications web robustes et maintenables, avec un
 ## 🤝 Me contacter
 
 <p align="center">
-  <a href="/cdn-cgi/l/email-protection#472e2535262f2e2a2522352028327607202a262e2b6924282a">
+  <a href="mailto:ibrahimbergou1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/ibrahim-bergou">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-t
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ibrahim567bergou&label=Visites%20du%20profil&color=0e75b6&style=flat" />
+</p>
