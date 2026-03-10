@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Développeur Full Stack Java | Spring Boot · Angular · PostgreSQL</h3>
 
 <p align="center">
-  <a href="mailto:ibrahimbergou1@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#9ef7fcecfff6f7f3fcfbecf9f1ebafdef9f3fff7f2b0fdf1f3">
     <img src="https://img.shields.io/badge/Email-ibrahimbergou1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/ibrahim-bergou">
@@ -18,12 +18,12 @@
 Développeur Full Stack Java diplômé d'un **Master en Systèmes Intelligents et Mobiles** (USMBA, Taza).  
 Passionné par la création d'applications web robustes et maintenables, avec une expérience concrète en environnement professionnel Agile Scrum.
 
-- 🏢 **6 mois d'expérience** chez **e-Ambition (Rabat)** — développement d'une plateforme de rendez-vous médicaux
+- 🏢 **Stage PFE de 6 mois** chez **e-Ambition (Rabat)** — plateforme de rendez-vous médicaux
 - 🎓 **Master** Systèmes Intelligents et Mobiles · **Licence** Génie Informatique — USMBA Taza
-- 🔭 Actuellement en poste chez **e-Ambition** (01/2025 – 07/2025)
+- 🔍 **Disponible** — À la recherche d'un **CDI ou stage préembauche en ingénierie Full Stack Java / Spring Boot**
 - 🌱 En apprentissage continu : Docker, CI/CD, microservices
 - 💬 Trilingue : **Arabe** (natif) · **Français** (B2) · **Anglais** (B1)
-- 📫 Me contacter : **ibrahimbergou1@gmail.com**
+- 📫 Me contacter : **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="84ede6f6e5ecede9e6e1f6e3ebf1b5c4e3e9e5ede8aae7ebe9">[email&#160;protected]</a>**
 
 ---
 
@@ -85,26 +85,11 @@ Passionné par la création d'applications web robustes et maintenables, avec un
 
 ---
 
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ibrahim567bergou&show_icons=true&theme=dark&hide_border=true&locale=fr" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim567bergou&layout=compact&theme=dark&hide_border=true&locale=fr" width="48%" />
-</p>
-
----
-
 ## 🤝 Me contacter
 
 <p align="center">
-  <a href="mailto:ibrahimbergou1@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#472e2535262f2e2a2522352028327607202a262e2b6924282a">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/ibrahim-bergou">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ibrahim567bergou&label=Visites%20du%20profil&color=0e75b6&style=flat" alt="profile views" />
-</p>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-t
