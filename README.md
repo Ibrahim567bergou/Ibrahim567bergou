@@ -5,7 +5,7 @@
   <a href="/cdn-cgi/l/email-protection#9ef7fcecfff6f7f3fcfbecf9f1ebafdef9f3fff7f2b0fdf1f3">
     <img src="https://img.shields.io/badge/Email-ibrahimbergou1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/ibrahim-bergou">
+  <a href="https://www.linkedin.com/in/ibrahim-bergou-591504322/">
     <img src="https://img.shields.io/badge/LinkedIn-ibrahim--bergou-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Localisation-Casablanca%2C%20Maroc-green?style=for-the-badge&logo=googlemaps&logoColor=white" />
